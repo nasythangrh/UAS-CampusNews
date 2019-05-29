@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CampusNews</string>
+    <string-array name="fakultas">
+        <item>Politeknik Negeri Malang</item>
+        <item>Teknologi Informasi</item>
+        <item>Teknik Mesin</item>
+        <item>Akuntansi</item>
+        <item>Administrasi Niaga</item>
+        <item>Teknik Elektro</item>
+        <item>Pasca Sarjana</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
